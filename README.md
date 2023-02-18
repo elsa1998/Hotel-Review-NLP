@@ -1,2 +1,5 @@
 # Hotel-Review-NLP
-Did contextual search on hotel review in Dubai
+Data source: The entire data is scrapped from TripAdvisor website
+Inspired by: HNESTDS @ Kaggle
+Goal: Find Top N most similar sentences in corpus to meet the customer requirements based on hotel reviews.
+
